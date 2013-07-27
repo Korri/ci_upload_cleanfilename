@@ -1,4 +1,4 @@
-Automatically clean filename inside Upload class
+Automatically clean filename while uploading
 =======================
 
 Clean file name while uploading (but keeping has much as possible, unlike `encrypt_name` option).
