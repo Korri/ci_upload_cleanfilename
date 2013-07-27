@@ -1,7 +1,7 @@
 Automatically clean filename inside Upload class
 =======================
 
-Codeigniter Upload Clean file name
+Clean file name while uploading (but keeping has much as possible, unlike `encrypt_name` option).
 
 Simple extention to `CI_Upload` that automatically passes the file name throught
 `convert_accented_caracters` and `url_title` in order to eliminate non-url caracters.
