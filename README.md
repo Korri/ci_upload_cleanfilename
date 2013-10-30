@@ -1,4 +1,4 @@
-Automatically clean filename while uploading
+Automatic name cleaning for CodeignIgniter File Upload
 ==================
 
 CodeIgniter extention to clean file name while uploading (but keeping has much as possible, unlike `encrypt_name` option).
